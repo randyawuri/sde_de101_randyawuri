@@ -1,0 +1,7 @@
+1. First analyze and understand the business needs and identify key areas where data can help provide insights.
+
+2. Hold discussions to understand what questions need to be answered by the analysis.
+
+3. Decide what data to collect, how to collect it and store it.
+
+4. Extract, Transform and Load data into a preffered destination system. 
